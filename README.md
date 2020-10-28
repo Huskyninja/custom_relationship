@@ -6,6 +6,18 @@ Quick start module for creating custom relationships with Views Database Connect
 
 Views Database Connector 8.x-1.2 or greater - https://www.drupal.org/project/views_database_connector
 
+## Installation
+
+Drop custom_relationships folder (the one with the .yml & .inc file) into the /modules/custom directory 
+(so it would be /modules/custom/custom_relationships). Composer is not supported (you'll overwrite 
+something).
+
+## Use
+
+The file custom_relationships.views.inc will need to be edited to meet the individual requirement of your
+Views Database Connector custom database. This file contains clarified instructions and a sample to 
+bootstrap your Views' relationships.
+
 ## Details
 
 This module was built using information available on drupal.org's support forum and the readme file 
