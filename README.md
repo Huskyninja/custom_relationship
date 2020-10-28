@@ -8,10 +8,8 @@ Views Database Connector 8.x-1.2 or greater - https://www.drupal.org/project/vie
 
 ## Details
 
-The single function in this includes module is to connect different external databases brought into 
-Drupal Views using Views Database Connector. It was built using information available on drupal.org's 
-support forum and the readme file contained in the Views Database Connector module. The forum entry 
-can be found at the following URL:
+This module was built using information available on drupal.org's support forum and the readme file 
+contained in the Views Database Connector module. The forum entry can be found at the following URL:
 
 https://www.drupal.org/project/views_database_connector/issues/2487453
 
