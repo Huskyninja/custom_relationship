@@ -1,0 +1,8 @@
+name: "Custom Relationships"
+type: module
+description: "Custom relationships for VDC Views."
+dependencies:
+  - views
+  - views_database_connector
+package: "Views"
+core: 8.x
