@@ -1,7 +1,6 @@
 # Custom Relationships in Views Database Connector
 
-Quick start module for creating custom relationships with Views Database Connector in with 
-Drupal 8 Views.
+Quick start module for creating custom relationships with Views Database Connector in Drupal 8 Views.
 
 ## Details
 
